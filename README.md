@@ -2,11 +2,11 @@
 
 Here you will find the materials needed to participate in the study. 
 
-If you have not yet enrolled in the study, [please do so here](https://app.onlinesurveys.jisc.ac.uk/s/openuniversity/dupras-probes-study-ou0612)
+If you have not yet enrolled in the study, [please do so here](https://app.onlinesurveys.jisc.ac.uk/s/openuniversity/dupras-probes-study-ou0612).
 
-Once enrolled, please go to the [initial questionnaire](https://app.onlinesurveys.jisc.ac.uk/s/openuniversity/study-0612-initial-questionnaire)
+Once enrolled, please go to the [initial questionnaire](https://app.onlinesurveys.jisc.ac.uk/s/openuniversity/study-0612-initial-questionnaire).
 
-For this study, you will need a MIDI controller connected to your computer and you will need to software PureData installed. 
+For this study, you will need a MIDI controller connected to your computer and you will need the software PureData installed. 
 
 If you don't have it installed, you can [download PureData here.](https://puredata.info/downloads/pure-data)[Here's a short video showing what to do.] (YOUTUBE LINK VID1)
 
