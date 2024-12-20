@@ -1,10 +1,13 @@
-# Probes_Study_ou0612
+# Technology Probes Study on Programming by playing (study OU0612)
 
-This is a placeholder for the README that will accompany the probes study files.
+Here you will find the materials needed to participate in the study: find the green "Code" button above, click it and choose "Download Zip". Unzip the folder.
 
-This will include:
-- zip file of the folder that contains the patches
-- information sheet (PDF)
-- instructions for recording the audio journal
+The instructions for the study are [here](https://martindupras.github.io/Probes_Study_ou0612_Instructions/)
 
-Do I need anything else? 
+If you have not yet enrolled in the study, [please do so here](https://app.onlinesurveys.jisc.ac.uk/s/openuniversity/dupras-probes-study-ou0612).
+
+Once enrolled, please go to the [initial questionnaire](https://app.onlinesurveys.jisc.ac.uk/s/openuniversity/study-0612-initial-questionnaire).
+
+
+
+
